@@ -10,3 +10,5 @@ Discord ( no expire invite )
 https://discord.com/invite/PuRKKMceuf 
 
 The most update versions will be help on the repo so you have easy access to them and "older" files will be moved to our mega for safe storage.
+
+This is the main page but we will have seperate repo`s for tables/mod etc... that we are working on.
